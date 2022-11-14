@@ -16,12 +16,12 @@ se pueden crear distintas instancias para los clientes, cada uno tendra un hilo 
 
 ej server
 
-![](C:\Users\Menem\AppData\Roaming\marktext\images\2022-11-14-12-12-32-image.png)
+![](img/server.png)
 
 ej cliente leo messi
 
-![](C:\Users\Menem\AppData\Roaming\marktext\images\2022-11-14-12-12-58-image.png)
+![](img/messi.png)
 
 ej cliente angel di maria
 
-![](C:\Users\Menem\AppData\Roaming\marktext\images\2022-11-14-12-13-33-image.png)
+![](img/dimaria.png)
